@@ -41,9 +41,6 @@ export class CreateClients1635774852429 implements MigrationInterface {
                         type: 'timestamp',
                         default: 'now()'
                     }
-
-
-
                 ]
             })
         )
@@ -55,4 +52,8 @@ export class CreateClients1635774852429 implements MigrationInterface {
 
 }
 
+
+/* 
+    yarn typeorm migration:create -n createClients
+*/
 
