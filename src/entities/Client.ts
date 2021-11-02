@@ -20,6 +20,9 @@ class Client {
     @Column()
     telephone: string;
 
+    @Column()
+    email: string;
+
     @UpdateDateColumn()
     updated_At: Date;
 

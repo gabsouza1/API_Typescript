@@ -1,0 +1,12 @@
+Criar a tabela de Produtos com os seguintes campos com
+id, nome do produto, unidade de medida (pc, kg, un), 
+data da criacão e data da atualização
+
+* Migrations
+* Entidades
+* Repositorios
+* Rotas
+* Controllers
+* Services
+* Implementar os métodos http: post, get, get by id, delete e update
+
